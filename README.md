@@ -1,4 +1,5 @@
-# Document Structure Continued
+clear
+Learning# Document Structure Continued
 
 ## Learning Goals
 
